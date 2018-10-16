@@ -1,0 +1,25 @@
+{
+  "name": "nerdschoolrestjavascript",
+  "version": "1.0.0",
+  "description": "oppgave1 NerdSchool JavaScript REST",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regtar/nerdSchoolRESTJavaScript.git"
+  },
+  "keywords": [
+    "REST",
+    "HTTP",
+    "WEB",
+    "FUN"
+  ],
+  "author": "Hilde og Fredrik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regtar/nerdSchoolRESTJavaScript/issues"
+  },
+  "homepage": "https://github.com/regtar/nerdSchoolRESTJavaScript#readme"
+}
